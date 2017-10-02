@@ -4,6 +4,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="2" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="24" />
