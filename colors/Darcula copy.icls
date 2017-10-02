@@ -1,0 +1,20 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.25" />
+  <metaInfo>
+    <property name="created">2017-04-24T22:19:54</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2017.1.1.0.0</property>
+    <property name="modified">2017-04-24T22:51:41</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <attributes>
+    <option name="OC.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
