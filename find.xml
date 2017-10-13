@@ -23,6 +23,10 @@
       <mask>*test</mask>
       <mask>*test.cp</mask>
       <mask>*test.cpp</mask>
+      <mask>s</mask>
+      <mask>smc</mask>
+      <mask>smc2</mask>
+      <mask>smc2*</mask>
     </recentFileMasks>
   </component>
 </application>
