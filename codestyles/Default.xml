@@ -2,7 +2,7 @@
   <option name="RIGHT_MARGIN" value="80" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
-    <option name="INDENT_VISIBILITY_KEYWORDS" value="2" />
+    <option name="INDENT_VISIBILITY_KEYWORDS" value="1" />
     <option name="FUNCTION_PARAMETERS_ALIGN_MULTILINE" value="false" />
     <option name="FUNCTION_PARAMETERS_NEW_LINE_AFTER_LPAR" value="true" />
     <option name="SPACE_BEFORE_SUPERCLASS_COLON" value="false" />

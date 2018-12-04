@@ -1,14 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.6.1" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isBoldTabs" value="true" />
-    <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="customTreeIndent" value="2" />
-    <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="24" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="24" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="53ea1e8f:1677b39fc20:-7fff" />
+    <option name="version" value="3.0.0-rc4" />
   </component>
 </application>
